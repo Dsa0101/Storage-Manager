@@ -2,15 +2,15 @@
 
 A [Droppy](https://getdroppy.app) droplet that puts three disk tools right beside your notch, on the shelf.
 
-- **Monitor** — see used and free space for your startup disk and every mounted external volume at a glance, featuring an **Orbital Hero UI** with fluid liquid-glass rings and radar scan animations that reflect system status.
-- **Smart Cleanup** — scans Downloads, Desktop, user Caches, and deep Trash counts. Lists the heaviest items, features a **SHA-256 safety guard** for duplicate detection, and lets you empty the Trash or clear caches safely in one tap. Destructive actions always ask for confirmation first.
+- **Monitor** — see used and free space for your startup disk and every mounted external volume at a glance, featuring a clean UI that reflects system status.
+- **Smart Cleanup** — scans Downloads, Desktop, user Caches, and deep Trash counts. Lists heavy items and lets you empty the Trash or clear caches safely in one tap. Destructive actions always ask for confirmation first.
 - **Offload** — drag files or folders onto the drop zone and Storage Manager copies them to a mounted external drive, verifies the copy byte-for-byte before touching the original, and only then frees the internal file. If the copy doesn't match, the original is left untouched.
 
-It also includes a **Settings** tab with multi-language selection (System / English / Spanish / Portuguese / French / German), customizable system & app-wide accent color tinting, sound feedback, auto-refresh, and control over how many heavy items are listed.
+It also includes a **Settings** tab with an **In-App Changelog viewer**, multi-language selection (System / English / Spanish / Portuguese / French / German), customizable system & app-wide accent color tinting, sound feedback, auto-refresh, and control over how many heavy items are listed.
 
-Made by **Dsa** · version **1.3.2**
+Made by **Dsa** · version **1.2.8**
 
-> **Source code repository:** [https://github.com/Dsa0101/Storage-Manager](https://github.com/Dsa0101/Storage-Manager/tree/main)
+> **Source code repository:** [https://github.com/Dsa0101/Storage-Manager](https://github.com/Dsa0101/Storage-Manager)
 
 ## Requirements
 
