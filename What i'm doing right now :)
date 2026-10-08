@@ -2,6 +2,8 @@ Hey everyone! Just a quick update on Storage Manager v1.3.2:
 
 I haven't pushed the v1.3.2 source code to GitHub just yet, as I'm currently working through some performance optimization challenges to ensure it runs smoothly and efficiently across both Intel and Apple Silicon architectures.
 
+Also, thanks to @Danny's feedback, I'm adding a filter so that large items in Smart Cleanup will only show up if they are over 1GB!
+
 On top of that, I'm planning to build a companion updater app for Storage Manager so that you won't have to manage updates manually anymore—you'll be able to install new versions seamlessly with just a single click!
 
 I'm ironing out these last details before re-submitting the post following the community guidelines. Thanks for all the support and feedback so far! 🚀
