@@ -27,7 +27,8 @@ Public development roadmap and version history for **Storage Manager**, followin
 
 ---
 
-### 🟢 Version 1.3.2 — Current Release `[STABLE / ACTIVE]`
+### 🟡 Version 1.3.2 — Current Build `[IN DEVELOPMENT / BETA]`
+> *Note: Currently undergoing active performance optimization for Intel and Apple Silicon architectures before official release.*
 - [x] **Orbital Hero UI:** Full visual overhaul featuring liquid-glass animations, dynamic radar scanning, and fluid donut metrics.
 - [x] **Multi-Language Expansion:** Native support for English, Spanish, Portuguese, French, and German.
 - [x] **SHA-256 Safety Guard:** Implemented byte-for-byte hash verification on Offload operations and Smart Cleanup confirmation guards.
@@ -53,4 +54,3 @@ Public development roadmap and version history for **Storage Manager**, followin
 ---
 
 > **Development Note:** Nightly builds are compiled privately using `DroppyKit`. Stable releases are tagged and published directly to the public GitHub repository.
-ff 
