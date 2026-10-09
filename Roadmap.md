@@ -42,7 +42,7 @@ Public development roadmap and version history for **Storage Manager**, followin
 - [ ] **Cross-Architecture Optimization (IN PROGRESS):** Fine-tuning disk scanning engine and thread management to minimize CPU/memory overhead on both Intel and Apple Silicon macs.
 - [ ] **1GB Filter Threshold for Large Items:** Option/filter in Smart Cleanup to only list heavy files larger than 1GB.
 - [ ] **Real-Time Interactive Scanning:** Live-sorted disk breakdown (ordered by file size) with low-power fallback.
-- [ ] **Expanded Language Suite:** Adding Dutch and community-requested localizations.
+- [ ] **Expanded Language Suite:** Adding Chinese and community-requested localizations.
 
 ---
 
