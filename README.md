@@ -10,7 +10,6 @@ It also includes a Settings tab with an In-App Changelog viewer, multi-language 
 
 Made by Dsa · version 1.3.2
 
-> **Source code repository:** [github.com/Dsa0101/Storage-Manager](https://github.com/Dsa0101/Storage-Manager)
 
 ---
 
