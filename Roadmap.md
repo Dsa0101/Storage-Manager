@@ -27,7 +27,7 @@ Public development roadmap and version history for **Storage Manager**, followin
 
 ---
 
-### 🟢 Version 1.3.2 — Current Build `[RELEASED]`
+### 🟢 Version 1.3.2 — Conqueror `[Completed]`
 > *Note: Fully optimized for high performance across both Intel and Apple Silicon architectures.*
 - [x] **Orbital Hero UI:** Full visual overhaul featuring liquid-glass animations, dynamic radar scanning, and fluid donut metrics.
 - [x] **Multi-Language Expansion:** Native support for English, Spanish, Portuguese, French, and German.
@@ -38,8 +38,8 @@ Public development roadmap and version history for **Storage Manager**, followin
 
 ---
 
-## 🟡 Active Work & Upcoming Releases (v1.3.x / v1.4.x)
-- [ ] **Cross-Architecture Optimization (IN PROGRESS):** Fine-tuning disk scanning engine and thread management to minimize CPU/memory overhead on both Intel and Apple Silicon macs.
+### 🟢 Version 1.3.5 - Current Build `[Released]`
+- [ ] **Cross-Architecture Optimization:** Fine-tuning disk scanning engine and thread management to minimize CPU/memory overhead on both Intel and Apple Silicon macs.
 - [ ] **1GB Filter Threshold for Large Items:** Option/filter in Smart Cleanup to only list heavy files larger than 1GB.
 - [ ] **Real-Time Interactive Scanning:** Live-sorted disk breakdown (ordered by file size) with low-power fallback.
 - [ ] **Expanded Language Suite:** Adding Chinese and community-requested localizations.
