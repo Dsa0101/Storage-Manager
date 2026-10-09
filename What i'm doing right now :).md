@@ -35,4 +35,4 @@ I'm actively coding, testing, and refining these features—making sure everythi
 
 > **Update:** Currently integrating the UI animations and finalizing the new scanning algorithms.
 
-> **Status:** Work In Progress (In Development 🛠️)
+> **Status:** Finished :)
