@@ -39,10 +39,10 @@ Public development roadmap and version history for **Storage Manager**, followin
 ---
 
 ### 🟢 Version 1.3.5 - Current Build `[Released]`
-- [ ] **Cross-Architecture Optimization:** Fine-tuning disk scanning engine and thread management to minimize CPU/memory overhead on both Intel and Apple Silicon macs.
-- [ ] **1GB Filter Threshold for Large Items:** Option/filter in Smart Cleanup to only list heavy files larger than 1GB.
-- [ ] **Real-Time Interactive Scanning:** Live-sorted disk breakdown (ordered by file size) with low-power fallback.
-- [ ] **Expanded Language Suite:** Adding Chinese and community-requested localizations.
+- [x] **Cross-Architecture Optimization:** Fine-tuning disk scanning engine and thread management to minimize CPU/memory overhead on both Intel and Apple Silicon macs.
+- [x] **1GB Filter Threshold for Large Items:** Option/filter in Smart Cleanup to only list heavy files larger than 1GB.
+- [x] **Real-Time Interactive Scanning:** Live-sorted disk breakdown (ordered by file size) with low-power fallback.
+- [x] **Expanded Language Suite:** Adding Chinese and community-requested localizations.
 
 ---
 
